@@ -11,3 +11,4 @@ Principais tarefas realizadas:
 - Alteração de Tabelas;
 - Inserção de Dados nas Tabelas;
 - Consulta de Dados nas Tabelas;
+- Junção de Tabelas;
