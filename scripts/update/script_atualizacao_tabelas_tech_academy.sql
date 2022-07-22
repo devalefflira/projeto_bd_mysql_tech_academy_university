@@ -20,3 +20,4 @@ UPDATE professor SET nome = 'Prof. Tim Berners-Lee' WHERE cpf LIKE '11111111113'
 UPDATE professor SET nome = 'Prof. Kevin Ashton' WHERE cpf LIKE '11111111114';
 UPDATE professor SET nome = 'Prof. Arthur Samuel' WHERE cpf LIKE '11111111115';
 UPDATE professor SET nome = 'Prof. Benjamin Franklin' WHERE cpf LIKE '11111111116';
+UPDATE professor SET nome = 'Prof. Mark Zuckeberg' WHERE cpf LIKE '11111111117';

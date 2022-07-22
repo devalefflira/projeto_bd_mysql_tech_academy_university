@@ -11,3 +11,5 @@ INSERT INTO professor(cpf, nome)
 	VALUES (11111111115, 'Arthur Samuel');
 INSERT INTO professor(cpf, nome)
 	VALUES (11111111116, 'Benjamin Franklin');
+INSERT INTO professor(cpf, nome)
+	VALUES (11111111117, 'Mark Zuckerberg');
